@@ -12,4 +12,6 @@ Si!  Se elimino todo mi trabajo de todo el dia.
 
 Eso me  pasa por no hacer el add y el commit.
 
+Modificaciòn 12:50
+Ahora veamos que pasa para cuando realizamos commit
 
